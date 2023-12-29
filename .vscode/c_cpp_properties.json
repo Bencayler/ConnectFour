@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "macos-gcc-arm64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [],
+      "macFrameworkPath": [
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks"
+      ],
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "${default}",
+      "intelliSenseMode": "macos-gcc-arm64",
+      "cppStandard": "c++11"
+    }
+  ],
+  "version": 4
+}
